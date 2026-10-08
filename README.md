@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm WhiteCode 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&height=40&lines=Full-Stack+Developer;Building+products+for+real+users;Clean+code+%7C+Scalable+systems+%7C+Great+UX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&height=40&lines=Full-Stack+Developer;Building+products+for+real+users;Clean+code+%7C+Scale+%7C+UX" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,9 +14,6 @@
 
 Full-Stack Developer with 4+ years of experience building digital products that have served over 1000 customers.
 
-I enjoy creating clean, maintainable code and building systems that are not only functional, but also user-friendly, scalable, and efficient.
-
----
 
 ## Tech Stack
 
@@ -43,23 +40,11 @@ I enjoy creating clean, maintainable code and building systems that are not only
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![OVH](https://img.shields.io/badge/OVH-123F6D?style=for-the-badge&logo=ovh&logoColor=white)
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=whitethegod&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitethegod&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## Connect with me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rodrigomdw)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rodrigomdw)
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=whitethegod&style=flat-square&color=0e75b6" alt="Profile views" />
