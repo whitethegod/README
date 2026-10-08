@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm WhiteCode 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&height=40&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Building+secure+products;Clean+code+%7C+Scale+%7C+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&height=40&lines=Full-Stack+Developer;Cybersecurity;Building+secure+products;Clean+code+%7C+Scale+%7C+Security" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-Full-Stack Developer & Cybersecurity Enthusiast with **4+ years** of experience building secure digital products that have served over **1000 customers**.
+Full-Stack Developer & Cybersecurity with **4+ years** of experience building secure digital products that have served over **1000 customers**.
 
 
 ## 🛠️ Tech Stack
