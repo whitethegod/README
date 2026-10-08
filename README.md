@@ -1,14 +1,26 @@
-# Hi, I'm WhiteCode 👋
+<h1 align="center">Hi, I'm WhiteCode 👋</h1>
 
-**Full-Stack Developer** with **4+ years** of experience building products that have served **1000+ customers**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&height=40&lines=Full-Stack+Developer;Building+products+for+real+users;Clean+code+%7C+Scalable+systems+%7C+Great+UX" alt="Typing SVG" />
+</p>
 
-Passionate about clean code, scalable systems, and creating experiences that users love.
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-2F80ED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Users-1000%2B-00C7B7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Full-Stack-FF6B6B?style=for-the-badge" />
+</p>
+
+## About Me
+
+Full-Stack Developer with 4+ years of experience building digital products that have served over 1000 customers.
+
+I enjoy creating clean, maintainable code and building systems that are not only functional, but also user-friendly, scalable, and efficient.
 
 ---
 
-### 🛠️ Tech Stack
+## Tech Stack
 
-**Languages**  
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -17,27 +29,38 @@ Passionate about clean code, scalable systems, and creating experiences that use
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frontend & Backend**  
+### Frontend & Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Databases & Backend Services**  
+### Databases & Services
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**Infrastructure & Hosting**  
+### Infrastructure & Hosting
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![OVH](https://img.shields.io/badge/OVH-123F6D?style=for-the-badge&logo=ovh&logoColor=white)
 
 ---
 
-### 🌐 Connect with me
+## GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=whitethegod&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitethegod&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Connect with me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rodrigomdw)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rodrigomdw)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=whitethegod&style=flat-square&color=0e75b6)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=whitethegod&style=flat-square&color=0e75b6" alt="Profile views" />
+</p>
