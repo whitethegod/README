@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm WhiteCode 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&height=40&lines=Full-Stack+Developer;Cybersecurity;Building+secure+products;Clean+code+%7C+Scale+%7C+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&height=40&lines=Full-Stack+Developer;CyberSecurity;Building+secure+products;Clean+code+%7C+Scale+%7C+Security" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-4%2B%20Years-2F80ED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Users-1000%2B-00C7B7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20Cybersecurity-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Customers-1000%2B-00C7B7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20CyberSecurity-FF6B6B?style=for-the-badge" />
 </p>
 
 
