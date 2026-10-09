@@ -101,17 +101,6 @@ I'm a passionate **Full-Stack Developer** with **4+ years** of professional expe
 
 ---
 
-## 💼 What I Do
-
-| Area | Description |
-|------|-------------|
-| **Full-Stack Development** | End-to-end web applications with modern tech stacks |
-| **Cybersecurity** | Penetration testing, vulnerability assessment & secure architecture |
-| **Scalability** | Building systems that grow with your business |
-| **Code Quality** | Clean, maintainable, and well-documented code |
-
----
-
 ## 🎯 Featured Projects
 
 > 🚀 Check out my repositories for detailed projects and contributions!
