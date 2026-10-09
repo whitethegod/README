@@ -78,24 +78,12 @@ I'm a passionate **Full-Stack Developer** with **4+ years** of professional expe
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whitethegod&show_icons=true&theme=dark&hide_border=true)](https://github.com/whitethegod)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whitethegod&layout=compact&theme=dark&hide_border=true)](https://github.com/whitethegod)
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rodrigomdw)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rodrigomdw)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=globe&logoColor=white)](https://empirestream.cc/)
 
 </div>
 
